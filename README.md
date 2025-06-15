@@ -41,8 +41,8 @@ This project showcases core data science competencies including **data cleaning,
 
 ## 📂 Folder Structure
 
-├── Amazon_reviews.ipynb
-├── README.md
+├── Amazon_reviews.ipynb# Main notebook with step-by-step analysis
+├── README.md  # Project documentation
 
 
 ---
